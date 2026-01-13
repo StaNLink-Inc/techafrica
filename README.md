@@ -6,11 +6,9 @@
 
 ---
 
-## 📽️ The Vision
-
-[![Watch the Tech Africa Vision](https://img.shields.io/badge/▶_Watch_Video-The_Vision-black?style=for-the-badge&logo=youtube)](http://techafrica.cloud.stanlink.online/assets/videos/brand/Video_Generation_Tech_Africa.mp4)
-
-*(Click the badge above to watch our vision video)*
+<div align="center">
+  <img src="https://techafrica.cloud.stanlink.online/assets/images/brand/image.png" width="300" alt="Tech Africa Logo">
+</div>
 
 ---
 
@@ -25,6 +23,8 @@ One Platform. One Community. Limitless Opportunity.
 ---
 
 ## ⚡ The Ecosystem Modules
+
+![Tech Africa Ecosystem](https://techafrica.cloud.stanlink.online/assets/images/brand/Gemini_Generated_Image_737f28737f28737f.png)
 
 We have integrated 7 powerful tools into one seamless experience:
 
