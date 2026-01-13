@@ -23,8 +23,9 @@ One Platform. One Community. Limitless Opportunity.
 ---
 
 ## ⚡ The Ecosystem Modules
-
-<img src="https://techafrica.cloud.stanlink.online/assets/images/brand/Gemini_Generated_Image_737f28737f28737f.png">
+<div>
+  <img src="https://techafrica.cloud.stanlink.online/assets/images/brand/Gemini_Generated_Image_737f28737f28737f.png">
+</div>
 
 We have integrated 7 powerful tools into one seamless experience:
 
